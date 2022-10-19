@@ -25,4 +25,5 @@ https://user-images.githubusercontent.com/99225070/196593753-f3c5db45-d913-4369-
     <li>Flask
     <li>Bcrypt
     <li>Jinja2
+    <li>Bootstrap
   </ul>

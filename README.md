@@ -15,11 +15,6 @@
 
 https://user-images.githubusercontent.com/99225070/196593753-f3c5db45-d913-4369-843b-aa1812cbc928.mov
 
-<h3>Swipe API</h3>
-
-<p>Integration of Stripe API to allow users to pay for classes online</p>
-<p>API takes users CC information exchanging the needed information for tokens, keeping all private information safe and out of anyone's hands besides Stripe
-<p>For more information on this API, check out <a href=https://stripe.com/docs/api>Stripe's docs here!</a>
 
 <h3>Tech Used</h3>
 

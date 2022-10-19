@@ -13,7 +13,8 @@
   
 <h3>Demo</h3>
 
-https://user-images.githubusercontent.com/99225070/196593753-f3c5db45-d913-4369-843b-aa1812cbc928.mov
+
+https://user-images.githubusercontent.com/99225070/196814287-14c7ef3a-70b9-4ce4-82fb-4d457ba82a5f.mov
 
 
 <h3>Tech Used</h3>
